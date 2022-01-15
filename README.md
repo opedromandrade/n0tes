@@ -1,5 +1,5 @@
 ### About
-Just a small place where i keep note to self in full open-source power for the likes of anyone. Hopefully these will help someone   (づ｡◕‿‿◕｡)づ
+Just a small place where I keep notes to self that might also help someone else  (づ｡◕‿‿◕｡)づ
 
 ### Social
 
